@@ -25,7 +25,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
 	"gopkg.in/fatih/set.v0"
 )
 

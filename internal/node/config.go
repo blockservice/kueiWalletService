@@ -2,7 +2,7 @@ package node
 
 import (
 	"fmt"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
 )
 
 // Config represents a small collection of configuration values to fine tune the

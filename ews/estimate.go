@@ -2,7 +2,7 @@ package ews
 
 import (
 	"encoding/json"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
 	"math"
 	"net/http"
 	"time"

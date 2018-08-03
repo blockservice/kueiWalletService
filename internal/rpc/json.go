@@ -26,7 +26,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
 )
 
 const (

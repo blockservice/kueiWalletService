@@ -29,7 +29,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
 	"golang.org/x/net/websocket"
 	"gopkg.in/fatih/set.v0"
 )

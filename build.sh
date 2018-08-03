@@ -9,4 +9,4 @@ if [ ! -d ./bin ];then
   mkdir ./bin
 fi
 
-go build -o ${SCRIPTPATH}/bin/ews github.com/ChungkueiBlock/ecoinWalletService/cmd/ews
+go build -o ${SCRIPTPATH}/bin/ews github.com/ChungkueiBlock/kueiWalletService/cmd/ews

@@ -33,7 +33,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
 )
 
 var (

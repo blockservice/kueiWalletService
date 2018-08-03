@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/ChungkueiBlock/ecoinWalletService/cmd/utils"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/debug"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/node"
+	"github.com/ChungkueiBlock/kueiWalletService/cmd/utils"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/debug"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/node"
 	"gopkg.in/urfave/cli.v1"
 	"gopkg.in/urfave/cli.v1/altsrc"
 	"os"

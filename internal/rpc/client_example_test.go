@@ -19,7 +19,7 @@ package rpc_test
 import (
 	"context"
 	"fmt"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/rpc"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/rpc"
 	"math/big"
 	"time"
 )

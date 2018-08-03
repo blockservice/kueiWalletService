@@ -1,9 +1,9 @@
 package rpcclient
 
 import (
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/amount"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/rpc"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/amount"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/rpc"
 )
 
 type Client struct {

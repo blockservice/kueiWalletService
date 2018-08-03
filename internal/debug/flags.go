@@ -5,8 +5,8 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log/term"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log/term"
 	"github.com/mattn/go-colorable"
 	"gopkg.in/urfave/cli.v1"
 	"gopkg.in/urfave/cli.v1/altsrc"
