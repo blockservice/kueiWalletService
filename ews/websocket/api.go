@@ -2,8 +2,8 @@ package websocket
 
 import (
 	"context"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/rpc"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/rpc"
 	"github.com/nsqio/go-nsq"
 	"sync"
 	"time"

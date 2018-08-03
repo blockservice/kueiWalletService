@@ -4,7 +4,7 @@ import (
 	ISql "database/sql"
 	"errors"
 	"fmt"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
 	_ "github.com/go-sql-driver/mysql"
 	"os"
 	"strconv"

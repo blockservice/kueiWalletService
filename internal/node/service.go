@@ -1,7 +1,7 @@
 package node
 
 import (
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/rpc"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/rpc"
 	"reflect"
 )
 

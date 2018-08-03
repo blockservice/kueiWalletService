@@ -30,7 +30,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
 	"github.com/davecgh/go-spew/spew"
 )
 

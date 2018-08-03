@@ -20,7 +20,7 @@ import (
 	"context"
 	"net"
 
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
 )
 
 // ServeListener accepts connections on l, serving JSON-RPC on them.

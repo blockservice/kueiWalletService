@@ -2,9 +2,9 @@ package utils
 
 import (
 	"fmt"
-	"github.com/ChungkueiBlock/ecoinWalletService/ews"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/node"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/params"
+	"github.com/ChungkueiBlock/kueiWalletService/ews"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/node"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/params"
 	"gopkg.in/urfave/cli.v1"
 	"os"
 	"path/filepath"

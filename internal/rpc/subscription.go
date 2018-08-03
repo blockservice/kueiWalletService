@@ -19,7 +19,7 @@ package rpc
 import (
 	"context"
 	"errors"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
 	"sync"
 )
 

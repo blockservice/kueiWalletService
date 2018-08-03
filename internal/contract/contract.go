@@ -3,9 +3,9 @@ package contract
 import (
 	"errors"
 	"fmt"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/amount"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/rpc"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/amount"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/rpc"
 	EthAbi "github.com/ethereum/go-ethereum/accounts/abi"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"

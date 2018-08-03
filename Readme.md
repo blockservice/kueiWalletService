@@ -1,12 +1,12 @@
-# ecoinWalletService
-ecoinWalletService给钱包提供冗余的历史数据接口,以及一些辅助功能:
+# kueiWalletService
+kueiWalletService给钱包提供冗余的历史数据接口,以及一些辅助功能:
 + Token列表
 + 交易历史
 + 当前全网平均gasprice(交易时的推荐gasprice)
 + 自定义gasprice时, 估算交易落块时间
 + fiat, 代币-法币兑换率
 
-![walletService](https://raw.githubusercontent.com/ChungkueiBlock/ecoinWalletService/docs/docs/images/walletService.png)
+![walletService](https://raw.githubusercontent.com/ChungkueiBlock/kueiWalletService/docs/docs/images/walletService.png)
 
 ### Usage:
 ```

@@ -1,10 +1,10 @@
 package ews
 
 import (
-	"github.com/ChungkueiBlock/ecoinWalletService/ews/websocket"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/node"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/rpc"
+	"github.com/ChungkueiBlock/kueiWalletService/ews/websocket"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/node"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/rpc"
 )
 
 type ChungkueiWalletService struct {

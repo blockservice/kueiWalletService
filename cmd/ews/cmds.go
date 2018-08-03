@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ChungkueiBlock/ecoinWalletService/cmd/utils"
+	"github.com/ChungkueiBlock/kueiWalletService/cmd/utils"
 	"gopkg.in/urfave/cli.v1"
 	"os"
 	"runtime"

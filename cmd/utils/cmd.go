@@ -2,9 +2,9 @@ package utils
 
 import (
 	"fmt"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/debug"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/node"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/debug"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/node"
 	"io"
 	"os"
 	"os/signal"

@@ -2,8 +2,8 @@ package ews
 
 import (
 	"fmt"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/storage/mysql"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/storage/mysql"
 )
 
 type WalletAPI struct {

@@ -3,8 +3,8 @@ package node
 import (
 	"errors"
 	"fmt"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/log"
-	"github.com/ChungkueiBlock/ecoinWalletService/internal/rpc"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/log"
+	"github.com/ChungkueiBlock/kueiWalletService/internal/rpc"
 	"net"
 	"reflect"
 	"strings"
